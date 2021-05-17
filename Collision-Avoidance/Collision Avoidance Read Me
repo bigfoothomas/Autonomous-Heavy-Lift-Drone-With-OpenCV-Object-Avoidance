@@ -1,1 +1,6 @@
-
+The Collision avoidance file contains the team's efforts towards achieving the OpenCV object avoidance including all disparity, grayscaling, 
+and other processing that was done to the video feed for image processing. The vehicle was expected to mover very slow so the average of 15FPS 
+was acceptable for this use case. 
+The "bones" of the avoidance algoritm are also included in the Python files.
+The images represent the different actions that are being undertaken during image processing, and the video shows a test with good preliminary 
+results for this avoidance system, however this test was performed while not attached to the drone.
